@@ -26,4 +26,4 @@ git clone https://github.com/NIGHTBATv1/55555
 
 cd 55555
 
-python3 pb.py
+python3 pi.py
